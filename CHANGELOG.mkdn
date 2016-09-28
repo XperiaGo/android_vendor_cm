@@ -1,7 +1,7 @@
 CyanogenMod
 ===============
 
-Visit https://github.com/XperiaSTE for full source and git access.
+Visit https://github.com/XperiaGo for full source and git access.
 
 CHANGELOG (notable new features)
 ---------
