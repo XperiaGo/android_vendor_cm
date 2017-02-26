@@ -1,7 +1,9 @@
-CyanogenMod
+LineageOS
 ===============
 
-Visit https://github.com/XperiaGo for full source and git access.
+Visit http://github.com/LineageOS for full source and git access.
+
+Visit http://review.lineageos.org for our Gerrit instance.
 
 CHANGELOG (notable new features)
 ---------
